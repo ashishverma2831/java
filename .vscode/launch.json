@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "armstrong",
+            "request": "launch",
+            "mainClass": "loops.armstrong",
+            "projectName": "java_54fbe176"
+        },
+        {
+            "type": "java",
+            "name": "twoSum",
+            "request": "launch",
+            "mainClass": "arrays.twoSum",
+            "projectName": "java_54fbe176"
+        },
+        {
+            "type": "java",
+            "name": "copyingAnArray",
+            "request": "launch",
+            "mainClass": "arrays.copyingAnArray",
+            "projectName": "java_54fbe176"
+        },
+        {
+            "type": "java",
             "name": "copyingAnArray",
             "request": "launch",
             "mainClass": "arrays.copyingAnArray",
