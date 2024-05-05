@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "reverseString",
+            "request": "launch",
+            "mainClass": "strings.reverseString",
+            "projectName": "java_54fbe176"
+        },
+        {
+            "type": "java",
+            "name": "arithmeticOperator",
+            "request": "launch",
+            "mainClass": "operators.arithmeticOperator",
+            "projectName": "java_54fbe176"
+        },
+        {
+            "type": "java",
             "name": "armstrong",
             "request": "launch",
             "mainClass": "loops.armstrong",
