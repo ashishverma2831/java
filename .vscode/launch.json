@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "BMI",
+            "request": "launch",
+            "mainClass": "accenture.BMI",
+            "projectName": "java_54fbe176"
+        },
+        {
+            "type": "java",
             "name": "balanceFruits",
             "request": "launch",
             "mainClass": "accenture.balanceFruits",
