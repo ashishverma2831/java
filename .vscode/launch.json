@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "one49",
+            "request": "launch",
+            "mainClass": "accenture.one49",
+            "projectName": "java_54fbe176"
+        },
+        {
+            "type": "java",
             "name": "prime",
             "request": "launch",
             "mainClass": "methods.prime",
